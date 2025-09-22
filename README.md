@@ -3,7 +3,7 @@
 <p>Mathly for <a href=https://www.lua.org>Lua</a> is a Lua module which turns Lua into a tiny, free but powerful MATLAB. It provides a group of commonly
 used MATLAB functions and features, for example,  <em>linspace</em>, <em>zeros</em>, <em>rand</em>, <em>save</em>, <em>plot</em>, <em>plot3d</em>, and
 convenient matrix operations as well. If there are things many love the most about MATLAB, these tools are. They make coding and testing a thought much
-easier and faster than working in most other programming languages. Besides, `animate` and `manipulate` allow easy animation of the graph of a
+easier and faster than working in most other programming languages. Besides, <em>animate</em> and <em>manipulate</em> allow easy and cool animation of the graph of a
 single-variable function or a parametric 2D curve.</p>
 
 <p>Mathly uses <a href=https://plotly.com/javascript/>Plotly JavaScript</a> graphing tools to plot graphs. Therefore, graphs are
